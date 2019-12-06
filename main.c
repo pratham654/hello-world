@@ -16,7 +16,7 @@
 /* main function */
 int main(void) {
 	/* print message */
-	printf("\r\nHello World ...");
+	printf("Hello World ...\r\n");
 	
 	/* function exit */
 	return 0;
